@@ -3,10 +3,6 @@ HornPenguin developes open source softwares and is a publisher for free books of
 
 You can support us through buy me a coffee service.
 
-<a href="https://www.buymeacoffee.com/hornpenguin">
-  <img src="https://github.com/HornPenguin/.github/blob/main/buy_me_a_coffee_hornpenguin.png" alt="drawing" width="150"/>
-</a>
-
 ## Projects
 
 ### Booklet
